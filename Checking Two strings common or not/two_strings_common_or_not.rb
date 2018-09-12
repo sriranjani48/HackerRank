@@ -20,3 +20,4 @@ strings = CommonInStrings.new
 puts strings.two_strings("hello", "world")
 puts strings.two_strings("hi", "world")
 puts strings.two_strings("world", "world")
+puts strings.two_strings("wouldyoulikefries", "abcabcabcabcabcabc")
